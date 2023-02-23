@@ -7,8 +7,7 @@
 	
 <h2> Validation Steps</h2>
  * Check that the data should be valid i.e. no empty fields.
-
- * Complete the data entry form and click the Save button to store the data in the database.
+* Complete the data entry form and click the Save button to store the data in the database.
 	
 And If the student rollno is present in the database, display that data in the form it will Enable Update and Reset buttons and move the cursor to the next field in the form. Keeping studentrollno field disabled and allow users to change other form fields.
 Again the validation steps are checked. We have to click on Update button to update the data in the database and click Reset to reset the form.
@@ -19,6 +18,7 @@ Again the validation steps are checked. We have to click on Update button to upd
   Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
   
   <h2>Release history</h2>
-	
+ Release 2.0.0 Description-
+ Saving and updating the students details using simple html form
 	
 	
