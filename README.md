@@ -25,7 +25,8 @@ Again the validation steps are checked. We have to click on Update button to upd
 	
 	<h1>Installation guide</h1>
 	
-	clone the given project link using any terminal in your system with git installed. After cloning open the project in any IDE of your choice.
+	clone the given project link using any terminal in your system with git installed. 
+	After cloning open the project in any IDE of your choice.
 	
 	<b> clone the project </b>
          git clone https://github.com/ritika12df/Student-Enrollment-Form-using-JsonPowerDB.git
