@@ -18,12 +18,11 @@ Again the validation steps are checked. We have to click on Update button to upd
   It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
   Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
   
-  <h2>Release history</h2>
+  <h2>Release history and Installation</h2>
 <b> Release 2.0.0 Description-</b>
  Saving and updating the students details using simple html form
  
  
- Installation
  
 Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
 
