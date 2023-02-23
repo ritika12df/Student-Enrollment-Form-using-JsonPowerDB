@@ -20,7 +20,8 @@ Again the validation steps are checked. We have to click on Update button to upd
   
   <h2>Release history and Installation</h2>
 <b> Release 2.0.0 Description-</b>
- Saving and updating the students details using simple html form
+ Saving and updating the students details using simple html form.
+ 
  
  
  
