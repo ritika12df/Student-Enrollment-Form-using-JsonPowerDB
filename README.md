@@ -25,8 +25,10 @@ Again the validation steps are checked. We have to click on Update button to upd
  
  
  
-##Installation 
-Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
+ 
+ 
+ 
+ Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
 
 Clone the project
 
