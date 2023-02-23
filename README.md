@@ -6,9 +6,9 @@
  There will be three control buttons Save button, Update button and Reset button at the bottom of the form. On page load or any control button click, an empty form will be displayed and the cursor will remain at the first input field in the form which will have the student rollno in the relation. All other fields and buttons should be disabled at this time. User will enter data in the field having student rollno and If the student rollno does NOT exist in the database, it will enable Save and Reset buttons and move the cursor to the next field and allow the user to enter data in the form.
 	
 <h2> Validation Steps</h2>
-* Check that the data should be valid i.e. no empty fields.
+ Check that the data should be valid i.e. no empty fields.
  
-*  Complete the data entry form and click the Save button to store the data in the database.
+Complete the data entry form and click the Save button to store the data in the database.
 	
 And If the student rollno is present in the database, display that data in the form it will Enable Update and Reset buttons and move the cursor to the next field in the form. Keeping studentrollno field disabled and allow users to change other form fields.
 Again the validation steps are checked. We have to click on Update button to update the data in the database and click Reset to reset the form.
@@ -22,4 +22,6 @@ Again the validation steps are checked. We have to click on Update button to upd
 <b> Release 2.0.0 Description-</b>
  Saving and updating the students details using simple html form
 	
-	
+	<h2>Installation guide</h2>
+	clone the given project link using any terminal in your system with git installed. After cloning open the project in any IDE of your choice.
+	<b>clone the project<b>
