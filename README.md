@@ -22,11 +22,11 @@ Again the validation steps are checked. We have to click on Update button to upd
 <b> Release 2.0.0 Description-</b>
  Saving and updating the students details using simple html form
  
-	
-	<h1>Installation guide</h1>
-	
-	clone the given project link using any terminal in your system with git installed. 
-	After cloning open the project in any IDE of your choice.
-	
-	<b> clone the project </b>
-         git clone https://github.com/ritika12df/Student-Enrollment-Form-using-JsonPowerDB.git
+	Installation
+Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
+
+Clone the project
+git clone 
+After cloning
+
+Move to public_html and then js folder and in index.js file replace the connectionToken by with your Connection Token
