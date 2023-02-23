@@ -22,6 +22,7 @@ Again the validation steps are checked. We have to click on Update button to upd
 <b> Release 2.0.0 Description-</b>
  Saving and updating the students details using simple html form
 	
-	<h2>Installation guide</h2>
+	<h1>Installation guide</h1>
 	clone the given project link using any terminal in your system with git installed. After cloning open the project in any IDE of your choice.
 	<b>clone the project<b>
+         git clone https://github.com/ritika12df/Student-Enrollment-Form-using-JsonPowerDB.git
